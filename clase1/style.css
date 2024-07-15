@@ -1,0 +1,36 @@
+body {
+    background-color: transparent;
+}
+
+
+p {
+    background-color: green;
+}
+
+.parrafo {
+    background-color: blue;
+}
+
+#parrafo3 {
+    background-color: yellow;
+}
+
+.parrafo {
+    background-color: red;
+}
+
+
+.boton {
+    background-color: #c00;
+    color: #FFF;
+    padding: 20px 40px;
+    max-width: 330px;
+    margin-bottom: 32px;
+    font-size: 18px;
+    cursor: pointer;
+    cursor: pointer;
+    line-height: 20px;
+    margin: 30px;
+    text-decoration: none;
+    border-radius: 5px;
+}

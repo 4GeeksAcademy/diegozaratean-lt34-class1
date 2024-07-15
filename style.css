@@ -1,36 +1,18 @@
-body {
-    background-color: transparent;
+body{
+    background-color: bisque;
+}
+
+div {
+    background-color: rgb(201, 255, 243);
+    border: 1px solid #f0f;
 }
 
 
-p {
-    background-color: green;
+
+.btn-primary{
+    background-color: #1aa24e;
 }
 
-.parrafo {
-    background-color: blue;
-}
-
-#parrafo3 {
-    background-color: yellow;
-}
-
-.parrafo {
-    background-color: red;
-}
-
-
-.boton {
-    background-color: #c00;
-    color: #FFF;
-    padding: 20px 40px;
-    max-width: 330px;
-    margin-bottom: 32px;
-    font-size: 18px;
-    cursor: pointer;
-    cursor: pointer;
-    line-height: 20px;
-    margin: 30px;
-    text-decoration: none;
-    border-radius: 5px;
+.boton_magenta {
+    background-color: #c229d2;
 }
